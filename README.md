@@ -65,9 +65,9 @@ En este trabajo se realiza un análisis de usabilidad y experiencia de usuario d
 En primer lugar, para conocer las necesidades de los usuarios, podemos crear una Persona de forma breve (no se hará uso de la plantilla usada en prácticas). Utilizaremos una metodología basada en heurísticas de usabilidad y se elaborará un Journey Map para entender mejor la interacción de un usuario típico con estos sitios
 
 ### Persona
-> Nombre: Laura García
+> Nombre: Laura Del Rio
 > 
-> Edad: 34
+> Edad: 30
 > 
 > Profesión: Investigadora Biomédica
 > 
@@ -99,4 +99,62 @@ En primer lugar, para conocer las necesidades de los usuarios, podemos crear una
 > 
 > Experiencia: Encuentra el sitio web fácilmente y hace clic en el enlace.
 
+<h4>Etapa 2: Exploración de la página principal</h4>
+
+> Acción: Laura explora la página principal para obtener una visión general del CIBM.
+> 
+> Motivación: Quiere obtener una visión general del CIBM.
+> 
+> Touchpoints: Página principal, menú de navegación.
+> 
+> Experiencia: Laura encuentra la información general y una introducción al centro, pero le cuesta encontrar secciones específicas como "Líneas de Investigación".
+
+<h4>Etapa 3: Investigación de Líneas de Investigación</h4>
+
+> Acción: Laura intenta encontrar la sección de "Líneas de Investigación".
+>
+> Motivación: Quiere conocer las áreas de investigación del CIBM.
+>
+> Touchpoints: Menú de navegación, página de investigación.
+>
+> Experiencia: Laura encuentra una sección de "Investigación" que incluye áreas de investigación, pero la información es bastante general.
+
+<h4>Etapa 4: Exploración de Publicaciones y Noticias</h4>
+
+> Acción: Laura busca información sobre publicaciones y noticias recientes.
+>
+> Motivación: Necesita acceder a recursos académicos y mantenerse actualizada con las novedades del centro.
+>
+> Touchpoints: Sección de "Publicaciones", sección de "Noticias".
+>
+> Experiencia: La sección de publicaciones está organizada, pero algunas publicaciones no tienen enlaces directos. La sección de noticias está bien mantenida y actualizada.
+
+<h4>Etapa 5: Evaluación de la Estructura y Personal</h4>
+
+> Acción: Laura navega a la sección de "Estructura" para conocer el personal del CIBM.
+>
+> Motivación: Quiere identificar posibles colaboradores.
+>
+> Touchpoints: Sección de "Estructura", perfiles de personal.
+>
+> Experiencia: La información sobre el personal es completa y detallada, pero algunos perfiles carecen de datos de contacto directos.
+
+<h4>Etapa 6: Contacto con el Centro</h4>
+
+> Acción: Laura busca cómo contactar con el centro.
+>
+> Motivación: Quiere iniciar una conversación con los investigadores del CIBM.
+>
+> Touchpoints: Página de "Contacto", formulario de contacto.
+>
+> Experiencia: El formulario de contacto es sencillo y funcional, pero no hay información sobre el tiempo de respuesta esperado.
+
+| Etapa                     | Emociones     | Satisfacción | Puntos de Dolor                           |
+----------------------------|---------------|--------------|-------------------------------------------|
+| Búsqueda Inicial          | Expectativa   | Alta         | Ninguna                                   |
+| Exploración de la Página Principal | Curiosidad | Media-Alta  | Navegación no intuitiva               |
+| Investigación de Líneas de Investigación | Interés  | Media  | Información general, falta de detalle |
+| Exploración de Publicaciones y Noticias | Curiosidad | Media-Alta  | Enlaces faltantes en publicaciones   |
+| Evaluación de la Estructura y Personal | Esperanza | Media-Alta | Falta de información de contacto    |
+| Contacto con el Centro    | Satisfacción  | Media        | Falta de información sobre tiempos de respuesta |
 
