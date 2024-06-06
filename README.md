@@ -153,7 +153,7 @@ En primer lugar, para conocer las necesidades de los usuarios, podemos crear una
 | Etapa                     | Emociones     | Satisfacción | Puntos de Dolor                           |
 ----------------------------|---------------|--------------|-------------------------------------------|
 | Búsqueda Inicial          | Expectativa   | Alta         | Ninguna                                   |
-| Exploración de la Página Principal | Curiosidad | Media-Alta  | Navegación no intuitiva               |
+| Exploración de la Página Principal | Curiosidad | Media-Alta  | Navegación poco intuitiva               |
 | Investigación de Líneas de Investigación | Interés  | Media  | Información general, falta de detalle |
 | Exploración de Publicaciones y Noticias | Curiosidad | Media-Alta  | Enlaces faltantes en publicaciones   |
 | Evaluación de la Estructura y Personal | Esperanza | Media-Alta | Falta de información de contacto    |
