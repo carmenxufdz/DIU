@@ -90,9 +90,10 @@ En primer lugar, para conocer las necesidades de los usuarios, podemos crear una
 
 ### Journey Map
 <h4>Etapa 1: Búsqueda Inicial</h4>
-> Acción: Laura busca en Google "Centro de Investigación Biomédica UGR".
+
+> Acción: Buscar en Google "Centro de Investigación Biomédica UGR"
 > Motivación: Quiere encontrar información sobre las investigaciones en curso en el CIBM.
-> Touchpoints: Google Search, resultados de búsqueda.
+> Touchpoints: Google Search, resultados de búsqueda.ç
 > Experiencia: Encuentra el sitio web fácilmente y hace clic en el enlace.
 Etapa 2: Navegación Inicial
 Acción: Laura llega a la página principal y navega por el menú para encontrar la sección de "Proyectos".
