@@ -6,7 +6,6 @@ Trabajo Final para la asignatura de Diseño de Interfaces de Usuario UGR
 # Parte I: Mi Experiencia UX
 
 ## Introducción
-
 Siempre he estado especialmente interesada en el ámbito del diseño, y era bastante consciente de la importancia de la Interacción de Usuario, de la Experiencia de Usuario y de la Usabilidad. Pero es verdad que nunca había adquirido las herramientas para poder aplicar la teoría que ya conocía a la práctica.
 
 A veces cuando voy andando por la calle y veo los distintos diseños de las marcas, tengo pensamientos del estilo “Pues este logo no se entiende muy bien”, “Por qué habrán decidido usar este color”, “Esto está muy bien diseñado”… Aunque la mayor parte de mis pensamientos se basaban a si lo que veía era agradable a la vista y no desde un punto más técnico.
@@ -19,7 +18,6 @@ He aprendido que, en una aplicación, el código no es lo único importante, per
 A lo largo de mi formación en esta asignatura, he tenido la oportunidad de involucrarme en diferentes ejercicios y trabajos que han enriquecido mi comprensión y habilidades en la Experiencia de Usuario (UX). Esta experiencia me ha permitido no solo consolidar conocimientos teóricos, sino también ser capaz de aplicarlos de manera práctica en proyectos.
 
 ## Aprendizaje
-
 En las prácticas de clases, el primer ejercicio realizado, el cual corresponde a la primera práctica, fue la realización de un análisis de una página web, en mi caso [GranaVentour](https://www.granaventour.com/) una página de actividades de aventuras en Granada. Identificando problemas como la falta de feedback inmediato, pues la página carecía de un apartado de reseñas, una navegación confusa, la existencia de una barra de búsqueda que no se podía utilizar, entre otros. Además de aportar soluciones viables para mejorar significativamente la experiencia del usuario.
 
 En esa misma práctica, realizamos una investigación de usuarios, creando personas inventadas que fuesen como una persona real. Lo cual es más complicado de lo que parece, pues había que actuar de acuerdo al perfil de esa persona, y que fuese coherente con su personalidad, gustos, etc. Esta actividad no solo me ha permitido profundizar en la comprensión de los usuarios, sino que también proporciona una base sólida para el diseño centrado en el usuario.
@@ -51,17 +49,13 @@ Además, en teoría fuimos capaces de simular distintas discapacidades que sufre
 Por último, hemos aprendido acera de como influyen las tendencias de diseño a cómo se aprecian los productos de diferentes marcas. La clara diferencia entre la propia imagen de marca hace varios años y actualmente, dejando ver lo importante que son las tendencias y el impacto que estas tienen.
 
 ## Conclusion
-
 Tras el trascurso de este cuatrimestre, he sido capaz de desarrollar una sólida base para identificar problemas de usabilidad a través de métodos como evaluaciones heurísticas y pruebas de usuario. También he aprendido a realizar investigaciones de usuarios cualitativas y cuantitativas, lo cual ha sido clave a la hora de entender las necesidades y comportamientos de las personas. He podido poner en práctica diferentes conceptos de diseño, haciendo uso de conocimientos acerca de usuario, los colores, la importancia de lo que deseamos transmitir… 
 
 En resumen, considero que he adquirido un alto grado de experiencia en User Experience, respaldado por una sólida base teórica y una amplia experiencia práctica. El poder aplicar estos conocimientos en diversos contextos permitirán el desarrollo de soluciones efectivas y de alta calidad que mejorarán la experiencia del usuario.
 
 ## Opinión Personal
-
 He disfrutado bastante de todo lo aprendido en la asignatura, pienso que la mente humana es muy compleja y el tener que estudiarla para poder diseñar aplicaciones que puedan ser utilizadas por todo el mundo es muy interesante. Pienso que lo aprendido es muy importante y es aplicable en diferentes ámbitos de mi carrera profesional.  Me han gustado mucho las clases y el poder aprender más acerca de temas que ya de por sí me llamaban la atención.
 
 # Parte II:  Caso de estudio: Evaluación de Página Web de Investigación
-
 ## Introdución
-
 En este trabajo se realiza un análisis de usabilidad y experiencia de usuario de los sitios web de dos centros de investigación biomédica: el [Centro de Investigación Biomédica](https://cibm.ugr.es/) de la Universidad de Granada (CIBM) y el [Instituto de Biomedicina](https://www.ibis-sevilla.es/es/) de Sevilla (IBiS). El objetivo es evaluar estos sitios en términos de diseño, usabilidad, adaptación a diferentes dispositivos y experiencia de usuario, así como comparar ambos sitios para identificar fortalezas y áreas de mejora.
