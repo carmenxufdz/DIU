@@ -60,3 +60,29 @@ He disfrutado bastante de todo lo aprendido en la asignatura, pienso que la ment
 # Parte II:  Caso de estudio: Evaluación de Página Web de Investigación
 ## Introdución
 En este trabajo se realiza un análisis de usabilidad y experiencia de usuario de los sitios web de dos centros de investigación biomédica: el [Centro de Investigación Biomédica](https://cibm.ugr.es/) de la Universidad de Granada (CIBM) y el [Instituto de Biomedicina](https://www.ibis-sevilla.es/es/) de Sevilla (IBiS). El objetivo es evaluar estos sitios en términos de diseño, usabilidad, adaptación a diferentes dispositivos y experiencia de usuario, así como comparar ambos sitios para identificar fortalezas y áreas de mejora.
+
+## Paso 1: Persona
+En primer lugar, para conocer las necesidades de los usuarios, podemos crear una Persona de forma breve (no se hará uso de la plantilla usada en prácticas). Utilizaremos una metodología basada en heurísticas de usabilidad y se elaborará un Journey Map para entender mejor la interacción de un usuario típico con estos sitios
+> Nombre: Laura García
+> 
+> Edad: 34
+> 
+> Profesión: Investigadora Biomédica
+> 
+> Educación: Doctorado en Biomedicina
+> 
+> Ubicación: Granada, España
+> 
+> Manejo Tecnológico: Alto
+> 
+> Acerca de: Estudió en la Universidad de Granada el grado de Biomedicina y al terminar realizó un doctorado para poder dedicarse a la investigación. Actualmente trabaja investigando y aportando sus descumbrimientos a la red de científicos.
+> 
+> Objetivos:
+> 
+>   Encontrar información sobre proyectos de investigación actuales.
+> 
+>   Conocer las oportunidades de colaboración.
+> 
+>   Acceder a publicaciones científicas y recursos académicos.
+> 
+>   Contactar con otros investigadores y centros.
