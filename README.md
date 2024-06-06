@@ -61,8 +61,10 @@ He disfrutado bastante de todo lo aprendido en la asignatura, pienso que la ment
 ## Introdución
 En este trabajo se realiza un análisis de usabilidad y experiencia de usuario de los sitios web de dos centros de investigación biomédica: el [Centro de Investigación Biomédica](https://cibm.ugr.es/) de la Universidad de Granada (CIBM) y el [Instituto de Biomedicina](https://www.ibis-sevilla.es/es/) de Sevilla (IBiS). El objetivo es evaluar estos sitios en términos de diseño, usabilidad, adaptación a diferentes dispositivos y experiencia de usuario, así como comparar ambos sitios para identificar fortalezas y áreas de mejora.
 
-## Paso 1: Persona
+## Paso 1: Persona & Journey Map
 En primer lugar, para conocer las necesidades de los usuarios, podemos crear una Persona de forma breve (no se hará uso de la plantilla usada en prácticas). Utilizaremos una metodología basada en heurísticas de usabilidad y se elaborará un Journey Map para entender mejor la interacción de un usuario típico con estos sitios
+
+### Persona
 > Nombre: Laura García
 > 
 > Edad: 34
@@ -85,3 +87,30 @@ En primer lugar, para conocer las necesidades de los usuarios, podemos crear una
 >> Acceder a publicaciones científicas y recursos académicos.
 >> 
 >> Contactar con otros investigadores y centros.
+
+### Journey Map
+Etapa 1: Búsqueda Inicial
+Acción: Laura busca en Google "Centro de Investigación Biomédica UGR".
+Motivación: Quiere encontrar información sobre las investigaciones en curso en el CIBM.
+Touchpoints: Google Search, resultados de búsqueda.
+Experiencia: Encuentra el sitio web fácilmente y hace clic en el enlace.
+Etapa 2: Navegación Inicial
+Acción: Laura llega a la página principal y navega por el menú para encontrar la sección de "Proyectos".
+Motivación: Quiere ver un resumen de los proyectos actuales.
+Touchpoints: Página principal del CIBM, menú de navegación.
+Experiencia: Encuentra la sección de "Proyectos" fácilmente, pero le gustaría ver más detalles sin tener que hacer clic en múltiples enlaces.
+Etapa 3: Exploración de Proyectos
+Acción: Lee sobre varios proyectos de investigación en la página de "Proyectos".
+Motivación: Identificar proyectos que se alineen con sus intereses.
+Touchpoints: Página de "Proyectos", enlaces a proyectos específicos.
+Experiencia: La información es clara y bien organizada, pero nota la falta de multimedia interactiva.
+Etapa 4: Oportunidades de Colaboración
+Acción: Busca información sobre cómo colaborar con el CIBM.
+Motivación: Quiere explorar oportunidades de colaboración en investigación.
+Touchpoints: Sección de "Colaboraciones", formulario de contacto.
+Experiencia: Encuentra la información necesaria, pero el formulario de contacto podría ser más visible.
+Etapa 5: Contacto y Seguimiento
+Acción: Rellena el formulario de contacto para expresar su interés en colaborar.
+Motivación: Quiere iniciar una conversación con los investigadores del CIBM.
+Touchpoints: Formulario de contacto, correo electrónico de confirmación.
+Experiencia: El proceso es sencillo y recibe una confirmación rápida, pero le gustaría una respuesta más personalizada.
