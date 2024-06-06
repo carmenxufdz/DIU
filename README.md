@@ -168,9 +168,14 @@ En primer lugar, para conocer las necesidades de los usuarios, podemos crear una
   <li>Información sobre Tiempos de Respuesta: Informar a los usuarios sobre el tiempo esperado para recibir una respuesta tras enviar un formulario de contacto</li>
 </ul>
 
-## Paso 2: Evaluación de la Página del CIBM (UGR)
+## Paso 2: Análisis de la Página del CIBM (UGR)
+En este apartado, se pretende profundizar en el análisis de la página del Centro de Investigación Biomédica (CIBM) de la Universidad de Granada (UGR), proporcionando detalles adicionales sobre diversos aspectos del diseño, la usabilidad y la experiencia del usuario.
 
-## Paso 3: Evaluación de la Página del IBiS (Sevilla)
+### Análisis del Diseño
+<h4>Estética y Apariencia</h4>
+La página web del CIBM de la UGR presenta una estética limpia y profesional. La estructura utilizada en esta página es la misma estructura que cualquier otra página relacionada con la UGR, lo cual aporta una sensación de unidad, resultando en que por la estructura de la página web reconoces que pertenece a la Universidad de Granada. La paleta de colores utilizada es sobria y refleja seriedad, lo cual es adecuado para un centro de investigación. Sin embargo, podría beneficiarse de una mayor variedad en la paleta de colores, para resaltar lo importante por ejemplo, y de una tipografía más distintiva para mejorar la estética general y hacer la página más atractiva visualmente.
+
+## Paso 3: Análisis de la Página del IBiS (Sevilla)
 
 ## Comparativa entre ambas páginas
 
