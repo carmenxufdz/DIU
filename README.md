@@ -226,6 +226,14 @@ En resumen, la página del Instituto de Biomedicina de Sevilla (IBiS) tiene un d
 
 ## Paso 4: Comparativa entre ambas páginas
 
+El diseño de CIBM es limpio y minimalista, mientras que el de IBiS es más moderno y utiliza más recursos multimedia. CIBM tiene una navegación intuitiva pero consta de menos elementos interactivos que IBiS, además IBiS contiene enlaces a redes sociales. La adaptación a diferentes dispositivos por ambas partes es adecuada, aunque la de IBiS tiene un diseño responsive más efectivo y llamativo. Ambas páginas proporcionan información clara y detallada, aunque IBiS ofrece enlaces adicionales a publicaciones relacionadas. El formulario de contacto de IBiS es más visible y accesible, además cuenta con una respuesta más personalizada. La página de IBiS tiene mejor experiencia de usuario gracias a la modernidad del diseño y mayor interactividad.
+
 ## Conclusiones y autoevaluación
 
+En este análisis, se observa que ambos sitios web cumplen con muchos de los principios de diseño centrados en el usuario y de usabilidad. Sin embargo, ambos contienen áreas mejorables.
 
+### Reflexión Personal
+
+Durante las prácticas de la asignatura, he aprendido la importancia fundamental de la usabilidad y la experiencia de usuario en el diseño web. Aplicar las técnicas aprendidas me ha permitido entender cómo interactúan los usuarios con una página web y cómo optimizar estos puntos de inteacción para mejorar su experiencia general.
+
+En resumen, lo aprendido en esta asignatura me ha proporcionado una sólida base en técnicas y metodologías de diseño centrado en el usuario. He aprendido a identificar y solucionar problemas de usabilidad y a diseñar con un enfoque claro en la experiencia del usaurio.
