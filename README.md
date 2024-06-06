@@ -4,7 +4,6 @@ Trabajo Final para la asignatura de Diseño de Interfaces de Usuario UGR
 >Curso 2023/24
 
 # Parte I: Mi Experiencia UX
-
 ## Introducción
 Siempre he estado especialmente interesada en el ámbito del diseño, y era bastante consciente de la importancia de la Interacción de Usuario, de la Experiencia de Usuario y de la Usabilidad. Pero es verdad que nunca había adquirido las herramientas para poder aplicar la teoría que ya conocía a la práctica.
 
