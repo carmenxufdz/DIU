@@ -89,11 +89,11 @@ En primer lugar, para conocer las necesidades de los usuarios, podemos crear una
 >> Contactar con otros investigadores y centros.
 
 ### Journey Map
-Etapa 1: Búsqueda Inicial
-Acción: Laura busca en Google "Centro de Investigación Biomédica UGR".
-Motivación: Quiere encontrar información sobre las investigaciones en curso en el CIBM.
-Touchpoints: Google Search, resultados de búsqueda.
-Experiencia: Encuentra el sitio web fácilmente y hace clic en el enlace.
+<h4>Etapa 1: Búsqueda Inicial</h4>
+> Acción: Laura busca en Google "Centro de Investigación Biomédica UGR".
+> Motivación: Quiere encontrar información sobre las investigaciones en curso en el CIBM.
+> Touchpoints: Google Search, resultados de búsqueda.
+> Experiencia: Encuentra el sitio web fácilmente y hace clic en el enlace.
 Etapa 2: Navegación Inicial
 Acción: Laura llega a la página principal y navega por el menú para encontrar la sección de "Proyectos".
 Motivación: Quiere ver un resumen de los proyectos actuales.
