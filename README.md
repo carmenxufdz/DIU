@@ -149,6 +149,7 @@ En primer lugar, para conocer las necesidades de los usuarios, podemos crear una
 >
 > Experiencia: El formulario de contacto es sencillo y funcional, pero no hay información sobre el tiempo de respuesta esperado.
 
+
 | Etapa                     | Emociones     | Satisfacción | Puntos de Dolor                           |
 ----------------------------|---------------|--------------|-------------------------------------------|
 | Búsqueda Inicial          | Expectativa   | Alta         | Ninguna                                   |
@@ -157,4 +158,15 @@ En primer lugar, para conocer las necesidades de los usuarios, podemos crear una
 | Exploración de Publicaciones y Noticias | Curiosidad | Media-Alta  | Enlaces faltantes en publicaciones   |
 | Evaluación de la Estructura y Personal | Esperanza | Media-Alta | Falta de información de contacto    |
 | Contacto con el Centro    | Satisfacción  | Media        | Falta de información sobre tiempos de respuesta |
+
+<h4>Resumen de Mejoras Propuestas</h4>
+<ul>
+  <li>Mejora de Navegación: Hacer el menú de navegación más intuitivo y fácil de usar.</li>
+  <li>Detalles en Líneas de Investigación: Proporcionar más detalles y ejemplos específicos de proyectos dentro de las áreas de investigación.</li>
+  <li>Enlaces en Publicaciones: Asegurar que todas las publicaciones tengan enlaces directos a los textos completos.</li>
+  <li>Información de Contacto del Personal: Incluir datos de contacto directos (correo electrónico, teléfono) en los perfiles del personal.</li>
+  <li>Información sobre Tiempos de Respuesta: Informar a los usuarios sobre el tiempo esperado para recibir una respuesta tras enviar un formulario de contacto</li>
+</ul>
+
+
 
