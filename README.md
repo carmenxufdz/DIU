@@ -177,7 +177,7 @@ La página web del CIBM de la UGR presenta una estética limpia y profesional. L
 
 ## Paso 3: Análisis de la Página del IBiS (Sevilla)
 
-## Comparativa entre ambas páginas
+## Paso 4: Comparativa entre ambas páginas
 
 ## Conclusiones y autoevaluación
 
