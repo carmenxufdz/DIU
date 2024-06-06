@@ -169,11 +169,35 @@ En primer lugar, para conocer las necesidades de los usuarios, podemos crear una
 </ul>
 
 ## Paso 2: Análisis de la Página del CIBM (UGR)
-En este apartado, se pretende profundizar en el análisis de la página del Centro de Investigación Biomédica (CIBM) de la Universidad de Granada (UGR), proporcionando detalles adicionales sobre diversos aspectos del diseño, la usabilidad y la experiencia del usuario.
+A continuación, se pretende profundizar en el análisis de la página del Centro de Investigación Biomédica (CIBM) de la Universidad de Granada (UGR), proporcionando detalles adicionales sobre diversos aspectos del diseño, la usabilidad y la experiencia del usuario.
 
 ### Análisis del Diseño
 <h4>Estética y Apariencia</h4>
-La página web del CIBM de la UGR presenta una estética limpia y profesional. La estructura utilizada en esta página es la misma estructura que cualquier otra página relacionada con la UGR, lo cual aporta una sensación de unidad, resultando en que por la estructura de la página web reconoces que pertenece a la Universidad de Granada. La paleta de colores utilizada es sobria y refleja seriedad, lo cual es adecuado para un centro de investigación. Sin embargo, podría beneficiarse de una mayor variedad en la paleta de colores, para resaltar lo importante por ejemplo, y de una tipografía más distintiva para mejorar la estética general y hacer la página más atractiva visualmente.
+La página web del CIBM de la UGR presenta una estética limpia y profesional. La paleta de colores utilizada es sobria y refleja seriedad, lo cual es adecuado para un centro de investigación. Sin embargo, podría beneficiarse de una mayor variedad en la paleta de colores, para resaltar lo importante por ejemplo, y de una tipografía más distintiva para mejorar la estética general y hacer la página más atractiva visualmente.
+
+El diseño de la página es limpio y no está sobrecargado, utiliza un diseño minimalista el cual suele ser efectivo siempre, aunque algunas páginas internas podrían mejorar con una mejor organización visual.
+
+<h4>Navegación y Estructura</h4>
+La estructura del sitio web es clara y bien organizada, con un menú de navegación que proporciona acceso rápido a las principales secciones del centro. Sin embargo, algunas secciones de gran importancia podrían mostrarse en la página principal, además de encontrarlas en el menú. La estructura utilizada en esta página es la misma estructura que cualquier otra página relacionada con la UGR, lo cual aporta una sensación de unidad, resultando en que por la estructura de la página web reconoces que pertenece a la Universidad de Granada. Además, dentro de las diferentes secciones de la página web, se mantiene la consistencia en colores y tipografía, pero algunas páginas internas tienen un diseño menos uniforme.
+
+### Usabilidad
+<h4>Accesibilidad</h4>
+Si bien el sitio web está adaptado para dispositivos móviles y computadoreas de escritorio, falta la inclusión de características de accesibilidad importantes, como texto alternativo para imágenes y opciones de contraste alto. Estas características son fundamentales para garantizar accesibilidad para usuarios con discapacidades visuales u otras necesidades. 
+
+La navegación es clara, pues en todo momento sabemos de nuestra ubicación en la página. Sin embargo, podría mejorarse usando indicadores visuales más prominentes para resaltar la sección activa. Las etiquetas de navegación son claras, pero algunos enlaces podrían beneficiarse de descripciones adicionales.
+
+Al ser una página, la cual su público esperado son personas del campo biomédico, utiliza terminología familiar para estos usuarios. Podría incluirse un glosario para aquellos usuarios no familiarizados con el tema. Además, la web carece de una sección de ayuda visible, incluir una sección de preguntas frecuentes sería una buena idea.
+
+<h4>Interactividad</h4>
+La página ofrece contenido interactivo, especialmente en la página principal, en la sección de noticias y eventos, pues esta información se actualiza regularmente y proporciona una experiencia dinámica para los usuarios. Sin embargo, se podría mejorar la interactividad del sitio mediante la inclusión de elementos multimedia, gráficos interactivos... los cuales podrían mejorar la experiencia del usuario haciendo que la información sea más atractiva y fácil de entender.
+
+### Experiencia de Usuario
+<h4>Contenido</h4>
+El contenido del sitio web es informativo y está bien estructurado, proporcionando información detallada sobre el centro, sus actividades de investigación, programas de docencia y noticias relevantes. Sin embargo, podría haber una mayor profundidad en la descripción de las líneas de investigación y proyectos específicos para proporcionar a los usuarios una comprensión más completa de las actividades del centro.
+
+El sitio es estable y no presenta errores evidentes. Los formularios son claros y tienen validación básica, lo cual ayuda a prevenir errores de entrada. La página no ofrece mucha opciones avanzadas, podría incluir atajos o herramientas para usuarios frecuentes.
+
+En resumen, la página web del Centro de Investigación Biomédica de la Universidad de Granada (UGR) tiene una base sólida en cuanto a diseño y estructura, pero podría mejorar en aspectos como la estética, la accesibilidad y la interactividad para ofrecer una experiencia de usuario aún más satisfactoria y enriquecedora.
 
 ## Paso 3: Análisis de la Página del IBiS (Sevilla)
 
