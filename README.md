@@ -91,7 +91,7 @@ En primer lugar, para conocer las necesidades de los usuarios, podemos crear una
 ### Journey Map
 <h4>Etapa 1: Búsqueda Inicial</h4>
 
-> Acción: Buscar en Google "Centro de Investigación Biomédica UGR"
+> Acción: Laura busca en Google "Centro de Investigación Biomédica UGR"
 > 
 > Motivación: Quiere encontrar información sobre las investigaciones en curso en el CIBM.
 > 
