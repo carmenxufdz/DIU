@@ -1,5 +1,5 @@
 Trabajo Final para la asignatura de Diseño de Interfaces de Usuario UGR
->Carmen Chunyin Fernández Núñez     :octocat:     www.github.com/carmenxufdz
+>Carmen Chunyin Fernández Núñez  :octocat:  www.github.com/carmenxufdz
 
 >Curso 2023/24
 
