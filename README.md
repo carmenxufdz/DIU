@@ -169,16 +169,18 @@ En primer lugar, para conocer las necesidades de los usuarios, podemos crear una
 </ul>
 
 ## Paso 2: Análisis de la Página del CIBM (UGR)
-A continuación, se pretende profundizar en el análisis de la página del Centro de Investigación Biomédica (CIBM) de la Universidad de Granada (UGR), proporcionando detalles adicionales sobre diversos aspectos del diseño, la usabilidad y la experiencia del usuario.
+En esta sección, se profundizará en el análisis de la página del Centro de Investigación Biomédica (CIBM) de la Universidad de Granada (UGR), proporcionado detalles adicionales sobre diversos aspectos del diseño, la usabilidad y la experiencia del usuario.
 
 ### Análisis del Diseño
 <h4>Estética y Apariencia</h4>
-La página web del CIBM de la UGR presenta una estética limpia y profesional. La paleta de colores utilizada es sobria y refleja seriedad, lo cual es adecuado para un centro de investigación. Sin embargo, podría beneficiarse de una mayor variedad en la paleta de colores, para resaltar lo importante por ejemplo, y de una tipografía más distintiva para mejorar la estética general y hacer la página más atractiva visualmente.
+La página web del CIBM de la UGR presenta una estética limpia y profesional, adecuada para un centro de investigación de alto nivel. La paleta de colores utilizada es sobria, su color principal es el naranja, el cual se asocia con la creatividad y el entusiasmo además de asociarse con la capacidad de estimular la actividad mental. Sin embargo, una mayor variedad en la paleta de colores podría mejorar la visibilidad de elementos importantes, como botones de acción y enlaces, haciéndolos más destacados y atractivos visualmente.
 
-El diseño de la página es limpio y no está sobrecargado, utiliza un diseño minimalista el cual suele ser efectivo siempre, aunque algunas páginas internas podrían mejorar con una mejor organización visual.
+La tipografía es legible y coherente con la imagen institucional, pero podría beneficiarse de una tipografía más distintiva para títulos y encabezados, lo cual añadiría un toque de modernidad y ayudaría a guiar mejor la atención del usuario. En general, el diseño minimalista que presenta la página web es efectivo y evita la sobrecarga de información, aunque algunas páginas internas podrían mejorarse con una organización visual más clara y jerárquica.
 
 <h4>Navegación y Estructura</h4>
-La estructura del sitio web es clara y bien organizada, con un menú de navegación que proporciona acceso rápido a las principales secciones del centro. Sin embargo, algunas secciones de gran importancia podrían mostrarse en la página principal, además de encontrarlas en el menú. La estructura utilizada en esta página es la misma estructura que cualquier otra página relacionada con la UGR, lo cual aporta una sensación de unidad, resultando en que por la estructura de la página web reconoces que pertenece a la Universidad de Granada. Además, dentro de las diferentes secciones de la página web, se mantiene la consistencia en colores y tipografía, pero algunas páginas internas tienen un diseño menos uniforme.
+La estructura del sitio web es clara y bien organizada, con un menú de navegación intuitivo que proporciona acceso rápido a las principales secciones del centro. No obstante, algunas secciones de gran importancia, como las líneas de investigación destacadas, podrían mostrarse directamente en la página principal para facilitar su acceso sin necesidad de navegar por el menú.
+
+La consistencia en el diseño a lo largo del sitio web, utilizando la misma estructura y estilo que otras páginas relacionadas con la UGR, aporta una sensación de unidad institucional. Sin embargo, se observan variaciones en el diseño y la estrcutura de algunas páginas internas que podrían beneficiarse de una mayor uniformidad para mantener una experencia de usuario coherente.
 
 ### Usabilidad
 <h4>Accesibilidad</h4>
