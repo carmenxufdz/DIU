@@ -52,4 +52,16 @@ Por último, hemos aprendido acera de como influyen las tendencias de diseño a 
 
 ## Conclusion
 
+Tras el trascurso de este cuatrimestre, he sido capaz de desarrollar una sólida base para identificar problemas de usabilidad a través de métodos como evaluaciones heurísticas y pruebas de usuario. También he aprendido a realizar investigaciones de usuarios cualitativas y cuantitativas, lo cual ha sido clave a la hora de entender las necesidades y comportamientos de las personas. He podido poner en práctica diferentes conceptos de diseño, haciendo uso de conocimientos acerca de usuario, los colores, la importancia de lo que deseamos transmitir… 
+
+En resumen, considero que he adquirido un alto grado de experiencia en User Experience, respaldado por una sólida base teórica y una amplia experiencia práctica. El poder aplicar estos conocimientos en diversos contextos permitirán el desarrollo de soluciones efectivas y de alta calidad que mejorarán la experiencia del usuario.
+
 ## Opinión Personal
+
+He disfrutado bastante de todo lo aprendido en la asignatura, pienso que la mente humana es muy compleja y el tener que estudiarla para poder diseñar aplicaciones que puedan ser utilizadas por todo el mundo es muy interesante. Pienso que lo aprendido es muy importante y es aplicable en diferentes ámbitos de mi carrera profesional.  Me han gustado mucho las clases y el poder aprender más acerca de temas que ya de por sí me llamaban la atención.
+
+# Parte II:  Caso de estudio: Evaluación de Página Web de Investigación
+
+## Introdución
+
+En este trabajo se realiza un análisis de usabilidad y experiencia de usuario de los sitios web de dos centros de investigación biomédica: el [Centro de Investigación Biomédica](https://cibm.ugr.es/) de la Universidad de Granada (CIBM) y el [Instituto de Biomedicina](https://www.ibis-sevilla.es/es/) de Sevilla (IBiS). El objetivo es evaluar estos sitios en términos de diseño, usabilidad, adaptación a diferentes dispositivos y experiencia de usuario, así como comparar ambos sitios para identificar fortalezas y áreas de mejora.
