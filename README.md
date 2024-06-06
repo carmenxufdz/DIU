@@ -168,5 +168,12 @@ En primer lugar, para conocer las necesidades de los usuarios, podemos crear una
   <li>Información sobre Tiempos de Respuesta: Informar a los usuarios sobre el tiempo esperado para recibir una respuesta tras enviar un formulario de contacto</li>
 </ul>
 
+## Paso 2: Evaluación de la Página del CIBM (UGR)
+
+## Paso 3: Evaluación de la Página del IBiS (Sevilla)
+
+## Comparativa entre ambas páginas
+
+## Conclusiones y autoevaluación
 
 
