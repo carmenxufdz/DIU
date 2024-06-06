@@ -6,6 +6,6 @@
 
 
 [GitHub](https://github.com/carmenxufdz/DIU24)
-[Comenzar](#diu)
+[Comenzar](#parte-i-mi-experiencia-ux)
 
 <!-- background color -->
