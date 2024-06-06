@@ -19,7 +19,7 @@ A lo largo de mi formación en esta asignatura, he tenido la oportunidad de invo
 ## Aprendizaje
 En las prácticas de clases, el primer ejercicio realizado, el cual corresponde a la primera práctica, fue la realización de un análisis de una página web, en mi caso [GranaVentour](https://www.granaventour.com/) una página de actividades de aventuras en Granada. Identificando problemas como la falta de feedback inmediato, pues la página carecía de un apartado de reseñas, una navegación confusa, la existencia de una barra de búsqueda que no se podía utilizar, entre otros. Además de aportar soluciones viables para mejorar significativamente la experiencia del usuario. 
 
-Las prácticas realizadas por mi compañero y yo se pueden consultar en la siguiente página: [Word Travel Case Study](https://carmenxufdz.github.io/DIU24/#/)
+Las prácticas realizadas por mi compañero y yo se pueden consultar en la siguiente página: [Word Travel - UX Case Study](https://carmenxufdz.github.io/DIU24/#/)
 
 En esa misma práctica, realizamos una investigación de usuarios, creando personas inventadas que fuesen como una persona real. Lo cual es más complicado de lo que parece, pues había que actuar de acuerdo al perfil de esa persona, y que fuese coherente con su personalidad, gustos, etc. Esta actividad no solo me ha permitido profundizar en la comprensión de los usuarios, sino que también proporciona una base sólida para el diseño centrado en el usuario.
 
