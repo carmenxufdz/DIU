@@ -171,6 +171,8 @@ En primer lugar, para conocer las necesidades de los usuarios, podemos crear una
 ## Paso 2: Análisis de la Página del CIBM (UGR)
 En esta sección, se profundizará en el análisis de la página del Centro de Investigación Biomédica (CIBM) de la Universidad de Granada (UGR), proporcionado detalles adicionales sobre diversos aspectos del diseño, la usabilidad y la experiencia del usuario.
 
+![CIBM](CIBM.png)
+
 ### Análisis del Diseño
 <h4>Estética y Apariencia</h4>
 La página web del CIBM de la UGR presenta una estética limpia y profesional, adecuada para un centro de investigación de alto nivel. La paleta de colores utilizada es sobria, su color principal es el naranja, el cual se asocia con la creatividad y el entusiasmo además de asociarse con la capacidad de estimular la actividad mental. Sin embargo, una mayor variedad en la paleta de colores podría mejorar la visibilidad de elementos importantes, como botones de acción y enlaces, haciéndolos más destacados y atractivos visualmente.
