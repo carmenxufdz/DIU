@@ -200,6 +200,29 @@ El sitio es estable y no presenta errores evidentes. Los formularios son claros 
 En resumen, la página web del Centro de Investigación Biomédica de la Universidad de Granada (UGR) tiene una base sólida en cuanto a diseño y estructura, pero podría mejorar en aspectos como la estética, la accesibilidad y la interactividad para ofrecer una experiencia de usuario aún más satisfactoria y enriquecedora.
 
 ## Paso 3: Análisis de la Página del IBiS (Sevilla)
+A continuación, se pretende profundizar en el análisis de la página del Instituto de Biomedicina de Sevilla (IBiS), proporcionando detalles adicionales sobre diversos aspectos del diseño, la usabilidad y la experiencia del usuario.
+
+### Análisis del Diseño
+<h4>Estética y Apariencia</h4>
+La página del IBiS presenta un diseño moderno y profesional. Utiliza una paleta de colores sobria y coherente, y consta con un buen equilibrio entre texto e imágenes, lo que facilita la lectura y navegación. Sin embargo, podría beneficiarse de una mayor variedad de colores y tipografías para mejorar la atracción visual. 
+
+<h4>Navegación y Estructura</h4>
+La navegación es intuitiva, la estructura es clara y permite un acceso rápido a la información, aunque algunas secciones podrían destacarse más en la página principal y facilitar su acceso. La página proporciona una buena visibilidad del estado actual, el menú de navegación es accesible y resalta la sección activa.
+
+### Usabilidad
+<h4>Accesibilidad</h4>
+Si bien el sitio web está adaptado para dispositivos móviles y computadoreas de escritorio, falta la inclusión de características de accesibilidad importantes, como texto alternativo para imágenes y opciones de contraste alto. Estas características son fundamentales para garantizar accesibilidad para usuarios con discapacidades visuales u otras necesidades. 
+
+<h4>Interactividad</h4>
+La página ofrece contenido interactivo, como noticias y eventos que se actualizan regularmente, y ofrece accesos a publicaciones científicas. El uso de más elementos multimedia podría mejorar la interactividad y atractivo del sitio.
+
+### Experiencia de Usuario
+<h4>Contenido</h4>
+El contenido es completo y bien organizado, porporcionando información detallada sobre el instituto, sus proyectos de investigación, servicios científicos y programas de docencia. La sección de investigación ofrece una buena visión de las áreas de investigación y proyectos, aunque podría profundizar en detalles más específicos. Se utiliza un lenguaje claro y comprensible para el usuario objetivo.
+
+El sitio es estable y no se detectaron errores significativos, los formularios tienen validación adecuada para prevenir errores de entrada. Ofrece funcionalidades interactivas y enlaces a redes sociales, lo cual mejora la eficiencia de uso.
+
+En resumen, la página del Instituto de Biomedicina de Sevilla (IBiS) tiene un diseño y estructura bien pensados que facilitan la navegación y la búsqueda de información. No obstante, la adición de características de accesibilidad y elementos multimedia interactivos mejoraría la experiencia del usuario y haría el sitio más inclusivo y atractivo.
 
 ## Paso 4: Comparativa entre ambas páginas
 
