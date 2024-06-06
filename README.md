@@ -99,42 +99,4 @@ En primer lugar, para conocer las necesidades de los usuarios, podemos crear una
 > 
 > Experiencia: Encuentra el sitio web fácilmente y hace clic en el enlace.
 
-<h4>Etapa 2: Navegación Inicial</h4>
 
-> Acción: Laura llega a la página principal y navega por el menú para encontrar la sección de "Proyectos".\
-> 
-> Motivación: Quiere ver un resumen de los proyectos actuales.
-> 
-> Touchpoints: Página principal del CIBM, menú de navegación.
-> 
-> Experiencia: Encuentra la sección de "Proyectos" fácilmente, pero le gustaría ver más detalles sin tener que hacer clic en múltiples enlaces.
-
-<h4>Etapa 3: Exploración de Proyectos</h4>
-
-> Acción: Lee sobre varios proyectos de investigación en la página de "Proyectos".
->
-> Motivación: Identificar proyectos que se alineen con sus intereses.
->
-> Touchpoints: Página de "Proyectos", enlaces a proyectos específicos.
->
-> Experiencia: La información es clara y bien organizada, pero nota la falta de multimedia interactiva.
-
-<h4>Etapa 4: Oportunidades de Colaboración</h4>
-
-> Acción: Busca información sobre cómo colaborar con el CIBM.
-> 
-> Motivación: Quiere explorar oportunidades de colaboración en investigación.
-> 
-> Touchpoints: Sección de "Colaboraciones", formulario de contacto.
-> 
-> Experiencia: Encuentra la información necesaria, pero el formulario de contacto podría ser más visible.
-
-<h4>Etapa 5: Contacto y Seguimiento</h4>
-
-> Acción: Rellena el formulario de contacto para expresar su interés en colaborar.
-> 
-> Motivación: Quiere iniciar una conversación con los investigadores del CIBM.
-> 
-> Touchpoints: Formulario de contacto, correo electrónico de confirmación.
-> 
-> Experiencia: El proceso es sencillo y recibe una confirmación rápida, pero le gustaría una respuesta más personalizada.
