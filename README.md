@@ -283,6 +283,6 @@ El análisis comparativo entre las páginas web del Centro de Investigación Bio
 
 ### Reflexión Personal
 
-Durante las prácticas de la asignatura, he aprendido la importancia fundamental de la usabilidad y la experiencia de usuario en el diseño web. Aplicar las técnicas aprendidas me ha permitido entender cómo interactúan los usuarios con una página web y cómo optimizar estos puntos de inteacción para mejorar su experiencia general.
+Durante las prácticas de la asignatura, he aprendido la importancia fundamental de la usabilidad y la experiencia de usuario en el diseño web. Aplicar las técnicas aprendidas me ha permitido entender cómo interactúan los usuarios con una página web y cómo optimizar estos puntos de interacción para mejorar su experiencia general.
 
-En resumen, lo aprendido en esta asignatura me ha proporcionado una sólida base en técnicas y metodologías de diseño centrado en el usuario. He aprendido a identificar y solucionar problemas de usabilidad y a diseñar con un enfoque claro en la experiencia del usaurio.
+En resumen, lo aprendido en esta asignatura me ha proporcionado una sólida base en técnicas y metodologías de diseño centrado en el usuario. He aprendido a identificar y solucionar problemas de usabilidad y a diseñar con un enfoque claro en la experiencia del usuario.
