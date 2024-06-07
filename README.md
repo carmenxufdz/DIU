@@ -186,22 +186,35 @@ La consistencia en el diseño a lo largo del sitio web, utilizando la misma estr
 
 ### Usabilidad
 <h4>Accesibilidad</h4>
-Si bien el sitio web está adaptado para dispositivos móviles y computadoreas de escritorio, falta la inclusión de características de accesibilidad importantes, como texto alternativo para imágenes y opciones de contraste alto. Estas características son fundamentales para garantizar accesibilidad para usuarios con discapacidades visuales u otras necesidades. 
+Aunque el sitio web está adaptado para dispositivos móviles y computadoras de escritorio, carece de características de accesibilidad fundamentales. La inclusión de texto alternativo para imágenes, opciones de contraste alto y la posibilidad de ajustar el tamaño del texto son esenciales para garantizar que el sitio sea accesible para usuarios con discapacidades visuales u otras necesidades específicas.
 
-La navegación es clara, pues en todo momento sabemos de nuestra ubicación en la página. Sin embargo, podría mejorarse usando indicadores visuales más prominentes para resaltar la sección activa. Las etiquetas de navegación son claras, pero algunos enlaces podrían beneficiarse de descripciones adicionales.
+La navegación es clara y en todo momento se muestra la ubicación del usuario dentro del sitio web, lo cual es positivo. Sin embargo, se podría mejorar con indicadores visuales más prominentes que resalten la sección activa del menú. Las etiquetas de navegación son claras y descriptivas, pero algunos enlaces internos podrían beneficiarse de descripciones adicionales para proporcionar más contexto.
 
-Al ser una página, la cual su público esperado son personas del campo biomédico, utiliza terminología familiar para estos usuarios. Podría incluirse un glosario para aquellos usuarios no familiarizados con el tema. Además, la web carece de una sección de ayuda visible, incluir una sección de preguntas frecuentes sería una buena idea.
+Dado que el público esperado del sitio incluye a personas del campo biomédico, la terminología utilizada es familiar para estos usuarios. Sin embargo, sería beneficioso incluir un glosario para aquellos usuarios que no estén familiarizados con términos técnicos específicos. Además, la inclusión de una sección de ayuda o preguntas frecuentes visible en todas las páginas sería útil para mejorar la experiencia del usuario.
 
 <h4>Interactividad</h4>
-La página ofrece contenido interactivo, especialmente en la página principal, en la sección de noticias y eventos, pues esta información se actualiza regularmente y proporciona una experiencia dinámica para los usuarios. Sin embargo, se podría mejorar la interactividad del sitio mediante la inclusión de elementos multimedia, gráficos interactivos... los cuales podrían mejorar la experiencia del usuario haciendo que la información sea más atractiva y fácil de entender.
+La página ofrece contenido interactivo, especialmente en la página principal con secciones de noticias y eventos que se actualizan regularmente. Esto proporciona una experiencia dinámica y mantiene a los usuarios informados sobre las actividades y avances del centro. Sin embargo, se podría mejorar la interactividad del sitio mediante la inclusión de elementos multimedia, como videos explicativos, infografías y gráficos interactivos, que podrían hacer que la información sea más atractiva y fácil de entender.
 
 ### Experiencia de Usuario
 <h4>Contenido</h4>
-El contenido del sitio web es informativo y está bien estructurado, proporcionando información detallada sobre el centro, sus actividades de investigación, programas de docencia y noticias relevantes. Sin embargo, podría haber una mayor profundidad en la descripción de las líneas de investigación y proyectos específicos para proporcionar a los usuarios una comprensión más completa de las actividades del centro.
+El contenido del sitio web es informativo y está bien estructurado, proporcionando información detallada sobre el centro, sus actividades de investigación, programas de docencia y noticias relevantes. Sin embargo, la descripción de las líneas de investigación y proyectos específicos podría ser más profunda para ofrecer a los usuarios una comprensión más completa de las actividades del centro.
 
-El sitio es estable y no presenta errores evidentes. Los formularios son claros y tienen validación básica, lo cual ayuda a prevenir errores de entrada. La página no ofrece mucha opciones avanzadas, podría incluir atajos o herramientas para usuarios frecuentes.
+El sitio es estable y no presenta errores evidentes, lo cual es crucial para la confianza y satisfacción del usuario. Los formularios disponibles son claros y tienen validación básica para prevenir errores de entrada, aunque podrían beneficiarse de una validación más avanzada y de la inclusión de mensajes de ayuda contextuales para guiar mejor al usuario.
 
-En resumen, la página web del Centro de Investigación Biomédica de la Universidad de Granada (UGR) tiene una base sólida en cuanto a diseño y estructura, pero podría mejorar en aspectos como la estética, la accesibilidad y la interactividad para ofrecer una experiencia de usuario aún más satisfactoria y enriquecedora.
+En términos de funcionalidades avanzadas, la página podría incluir atajos o herramientas para usuarios frecuentes, como la posibilidad de crear perfiles personalizados, guardar búsquedas o recibir notificaciones sobre temas de interés específicos.
+
+<h4>Sugerencias de Mejora</h4>
+<ul>
+  <li>Ampliar la Paleta de Colores: Introducir más colores para resaltar elementos importantes y mejorar la estética general.</li>
+  <li>Mejorar la Tipografía: Utilizar una tipografía más distintiva para títulos y encabezados.</li>
+  <li>Incorporar Características de Accesibilidad: Añadir texto alternativo para imágenes, opciones de contraste alto y ajustes de tamaño de texto.</li>
+  <li>Optimizar la Navegación: Utilizar indicadores visuales más prominentes y proporcionar descripciones adicionales para enlaces.</li>
+  <li>Aumentar la Interactividad: Incluir elementos multimedia y gráficos interactivos para enriquecer la experiencia del usuario.</li>
+  <li>Profundizar en el Contenido: Ofrecer descripciones más detalladas de las líneas de investigación y proyectos.</li>
+  <li>Funcionalidades Avanzadas: Incluir atajos y herramientas para usuarios frecuentes, así como una sección de ayuda y preguntas frecuentes.</li>
+</ul>
+
+En resumen, la página web del Centro de Investigación Biomédica de la Universidad de Granada (UGR) tiene una base sólida en cuanto a diseño y estructura, pero podría mejorar en aspectos como la estética, la accesibilidad y la interactividad para ofrecer una experiencia de usuario aún más satisfactoria y enriquecedora. Implementando estas mejoras, el sitio podría convertirse en una herramienta aún más efectiva para comunicar y promover las actividades del centro.
 
 ## Paso 3: Análisis de la Página del IBiS (Sevilla)
 A continuación, se pretende profundizar en el análisis de la página del Instituto de Biomedicina de Sevilla (IBiS), proporcionando detalles adicionales sobre diversos aspectos del diseño, la usabilidad y la experiencia del usuario.
