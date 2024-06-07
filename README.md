@@ -209,7 +209,7 @@ El contenido del sitio web es informativo y está bien estructurado, proporciona
 
 El sitio es estable y no presenta errores evidentes, lo cual es crucial para la confianza y satisfacción del usuario. Los formularios disponibles son claros y tienen validación básica para prevenir errores de entrada, aunque podrían beneficiarse de una validación más avanzada y de la inclusión de mensajes de ayuda contextuales para guiar mejor al usuario.
 
-En términos de funcionalidades avanzadas, la página podría incluir atajos o herramientas para usuarios frecuentes, como la posibilidad de crear perfiles personalizados, guardar búsquedas o recibir notificaciones sobre temas de interés específicos.
+En términos de funcionalidades avanzadas, la página podría incluir atajos o herramientas para usuarios frecuentes, como la posibilidad de crear perfiles personalizados, guardar búsquedas o recibir notificaciones sobre temas específicos de interés. Además, una sección de ayuda o preguntas frecuentes sería útil para mejorar la experiencia del usuario, proporcionando respuestas rápidas a dudas comunes.
 
 <h4>Sugerencias de Mejora</h4>
 <ul>
