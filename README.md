@@ -225,37 +225,61 @@ En términos de funcionalidades avanzadas, la página podría incluir atajos o h
 En resumen, la página web del Centro de Investigación Biomédica de la Universidad de Granada (UGR) tiene una base sólida en cuanto a diseño y estructura, pero podría mejorar en aspectos como la estética, la accesibilidad y la interactividad para ofrecer una experiencia de usuario aún más satisfactoria y enriquecedora. Implementando estas mejoras, el sitio podría convertirse en una herramienta aún más efectiva para comunicar y promover las actividades del centro.
 
 ## Paso 3: Análisis de la Página del IBiS (Sevilla)
-A continuación, se pretende profundizar en el análisis de la página del Instituto de Biomedicina de Sevilla (IBiS), proporcionando detalles adicionales sobre diversos aspectos del diseño, la usabilidad y la experiencia del usuario.
+En esta sección, se analizarán diversos aspectos de la página web del Instituto de Biomedicina de Sevilla (IBIS), incluyendo el diseño, la usabilidad, la adaptación a diferentes dispositivos y la experiencia del usuario.
+
+![IBiS](IBIS.png)
 
 ### Análisis del Diseño
 <h4>Estética y Apariencia</h4>
-La página del IBiS presenta un diseño moderno y profesional. Utiliza una paleta de colores sobria y coherente, y consta con un buen equilibrio entre texto e imágenes, lo que facilita la lectura y navegación. Sin embargo, podría beneficiarse de una mayor variedad de colores y tipografías para mejorar la atracción visual. 
+La página del IBiS presenta un diseño moderno y profesional. Utiliza una paleta de colores sobria y coherente, y consta con un buen equilibrio entre texto e imágenes, lo que facilita la lectura y navegación. Sin embargo, podría beneficiarse de una mayor variedad de colores y tipografías para mejorar la atracción visual. Esta página utiliza los colores blanco, azul oscuro y naranja, el azul oscuro lo usa principalmente en el fondo de la página principal, este color representa la inteligencia y la serenidad.
+
+La tipografía es clara y legible, adecuada para la presentación de información académica y científica. Sin embargo, el uso de una tipografía más distintiva para los títulos y encabezados podría ayudar a mejorar la estética general y facilitar la diferenciación de secciones.
 
 <h4>Navegación y Estructura</h4>
-La navegación es intuitiva, la estructura es clara y permite un acceso rápido a la información, aunque algunas secciones podrían destacarse más en la página principal y facilitar su acceso. La página proporciona una buena visibilidad del estado actual, el menú de navegación es accesible y resalta la sección activa.
+La estructura del sitio web es lógica y bien organizada. El menú de navegación principal, ubicado en la parte superior, proporciona acceso a las principales secciones del sitio como "Inicio", "Instituto", "Investigación", "Servicios", "Noticias", "Eventos" y "Contacto". Cada sección está claramente etiquetada, lo que facilita la búsqueda de información específica.
+
+El diseño de la página principal es limpio y destaca las secciones más importantes como noticias y eventos. Sin embargo, algunas secciones clave podrían ser más prominentes para facilitar el acceso rápido sin necesidad de navegar por varias subsecciones. La consistencia en el diseño a lo largo del sitio ayuda a mantener una experiencia de usuario coherente.
 
 ### Usabilidad
 <h4>Accesibilidad</h4>
-Si bien el sitio web está adaptado para dispositivos móviles y computadoreas de escritorio, falta la inclusión de características de accesibilidad importantes, como texto alternativo para imágenes y opciones de contraste alto. Estas características son fundamentales para garantizar accesibilidad para usuarios con discapacidades visuales u otras necesidades. 
+El sitio web está adaptado para dispositivos móviles y de escritorio, utilizando un diseño responsive que se ajusta bien a diferentes tamaños de pantalla. No obstante, hay algunas áreas donde se podría mejorar la accesibilidad. Por ejemplo, muchas imágenes no tienen texto alternativo (alt text), lo cual es crucial para usuarios con discapacidades visuales. Además, la inclusión de opciones de contraste alto y la posibilidad de ajustar el tamaño del texto ayudarían a garantizar una mayor accesibilidad para todos los usuarios.
+
+La navegación es clara, con indicaciones visuales que ayudan a los usuarios a entender su ubicación dentro del sitio. Sin embargo, estos indicadores podrían ser más prominentes para mejorar la claridad. Las etiquetas de los enlaces son descriptivas, pero algunas podrían beneficiarse de descripciones adicionales para proporcionar más contexto.
 
 <h4>Interactividad</h4>
-La página ofrece contenido interactivo, como noticias y eventos que se actualizan regularmente, y ofrece accesos a publicaciones científicas. El uso de más elementos multimedia podría mejorar la interactividad y atractivo del sitio.
+La página ofrece contenido interactivo en secciones como "Noticias" y "Eventos", que se actualizan regularmente para proporcionar una experiencia dinámica. Sin embargo, la interactividad general del sitio podría mejorarse mediante la inclusión de elementos multimedia como videos explicativos, infografías y gráficos interactivos. Estos elementos no solo harían que la información fuera más atractiva, sino que también facilitarían la comprensión de contenido complejo.
+
+### Adaptación a Diferentes Dispositivos
+
+La página web del IBIS se adapta bien a diferentes dispositivos, incluyendo computadoras de escritorio, tabletas y teléfonos móviles. El diseño responsive asegura que el contenido se reorganiza adecuadamente para diferentes tamaños de pantalla, manteniendo la legibilidad y la usabilidad. Sin embargo, en dispositivos móviles, algunos elementos de navegación podrían ser más accesibles, como los menús desplegables que a veces requieren varios toques para abrirse completamente.
+
+La velocidad de carga del sitio es adecuada tanto en dispositivos móviles como en de escritorio, aunque siempre hay espacio para optimizaciones que mejoren la experiencia del usuario en términos de tiempos de respuesta y rendimiento.
+
+![IBIS_movil](IBIS_movil.jpg)
 
 ### Experiencia de Usuario
 <h4>Contenido</h4>
-El contenido es completo y bien organizado, porporcionando información detallada sobre el instituto, sus proyectos de investigación, servicios científicos y programas de docencia. La sección de investigación ofrece una buena visión de las áreas de investigación y proyectos, aunque podría profundizar en detalles más específicos. Se utiliza un lenguaje claro y comprensible para el usuario objetivo.
+El contenido del sitio web es informativo y está bien estructurado, proporcionando detalles sobre el instituto, sus actividades de investigación, servicios y noticias relevantes. Sin embargo, algunas secciones, como la descripción de las líneas de investigación y los proyectos específicos, podrían profundizarse más para ofrecer una comprensión más completa y detallada de las actividades del instituto.
 
-El sitio es estable y no se detectaron errores significativos, los formularios tienen validación adecuada para prevenir errores de entrada. Ofrece funcionalidades interactivas y enlaces a redes sociales, lo cual mejora la eficiencia de uso.
+El sitio es estable y no presenta errores evidentes, lo cual es crucial para la confianza del usuario. Los formularios son claros y tienen validación básica, lo que ayuda a prevenir errores de entrada. Sin embargo, podrían beneficiarse de una validación más avanzada y de mensajes de ayuda contextuales que guíen mejor al usuario en el proceso de llenado.
 
-En resumen, la página del Instituto de Biomedicina de Sevilla (IBiS) tiene un diseño y estructura bien pensados que facilitan la navegación y la búsqueda de información. No obstante, la adición de características de accesibilidad y elementos multimedia interactivos mejoraría la experiencia del usuario y haría el sitio más inclusivo y atractivo.
+En términos de funcionalidades avanzadas, la página podría incluir atajos o herramientas para usuarios frecuentes, como la posibilidad de crear perfiles personalizados, guardar búsquedas o recibir notificaciones sobre temas específicos de interés. Además, una sección de ayuda o preguntas frecuentes visible en todas las páginas sería útil para mejorar la experiencia del usuario, proporcionando respuestas rápidas a dudas comunes.
+
+En resumen, la página web del Instituto de Biomedicina de Sevilla (IBIS) es robusta en cuanto a diseño y estructura, pero podría mejorar en aspectos como la estética, la accesibilidad y la interactividad para ofrecer una experiencia de usuario aún más satisfactoria y enriquecedora. Implementando estas mejoras, el sitio podría convertirse en una herramienta aún más efectiva para comunicar y promover las actividades del instituto.
 
 ## Paso 4: Comparativa entre ambas páginas
 
-El diseño de CIBM es limpio y minimalista, mientras que el de IBiS es más moderno y utiliza más recursos multimedia. CIBM tiene una navegación intuitiva pero consta de menos elementos interactivos que IBiS, además IBiS contiene enlaces a redes sociales. La adaptación a diferentes dispositivos por ambas partes es adecuada, aunque la de IBiS tiene un diseño responsive más efectivo y llamativo. Ambas páginas proporcionan información clara y detallada, aunque IBiS ofrece enlaces adicionales a publicaciones relacionadas. El formulario de contacto de IBiS es más visible y accesible, además cuenta con una respuesta más personalizada. La página de IBiS tiene mejor experiencia de usuario gracias a la modernidad del diseño y mayor interactividad.
+Ambas páginas presentan una estética profesional y utilizan colores sobrios. Sin embargo, el IBIS parece tener un diseño más moderno y mejor organizado en la página principal. Ambos sitios podrían mejorar su tipografía para títulos y encabezados para una mejor diferenciación de secciones. También tienen una estructura clara y una navegación intuitiva. Sin embargo, el IBIS destaca mejor las secciones importantes en su página principal, proporcionando un acceso más directo a información relevante. La consistencia en el diseño es una fortaleza en ambos sitios, aunque el CIBM podría mejorar la uniformidad en algunas de sus páginas internas.
+
+Ambos sitios son responsivos y se adaptan bien a diferentes dispositivos, pero ambos carecen de características de accesibilidad esenciales, como texto alternativo para imágenes y opciones de contraste alto. La navegación es clara en ambos, aunque podría mejorarse con indicadores visuales más prominentes y descripciones adicionales para enlaces. Ofrecen contenido interactivo en secciones de noticias y eventos, pero podrían mejorar la interactividad general mediante la inclusión de elementos multimedia. Esto no solo haría la información más atractiva, sino que también facilitaría la comprensión de contenido complejo.
+
+Ambos sitios son informativos y estables, pero podrían mejorar la profundidad de algunas secciones y la validación de formularios. La experiencia de usuario podría enriquecerse con descripciones más detalladas y mensajes de ayuda contextuales. Ambas páginas podrían mejorar con la inclusión de funcionalidades avanzadas que faciliten el uso para usuarios frecuentes. La adición de perfiles personalizados, búsquedas guardadas y notificaciones, así como una sección de ayuda visible, mejorarían significativamente la experiencia del usuario.
+
+En resumen, ambas páginas web del CIBM (UGR) y del IBIS (Sevilla) son sólidas en términos de diseño y estructura, pero tienen áreas de mejora similares en cuanto a estética, accesibilidad, interactividad y funcionalidades avanzadas. Implementando estas mejoras, ambas páginas podrían ofrecer una experiencia de usuario aún más satisfactoria y enriquecedora.
 
 ## Conclusiones y autoevaluación
 
-En este análisis, se observa que ambos sitios web cumplen con muchos de los principios de diseño centrados en el usuario y de usabilidad. Sin embargo, ambos contienen áreas mejorables.
+El análisis comparativo entre las páginas web del Centro de Investigación Biomédica (CIBM) de la Universidad de Granada y el Instituto de Biomedicina de Sevilla (IBIS) ha revelado varias fortalezas y áreas de mejora en cada sitio.
 
 ### Reflexión Personal
 
