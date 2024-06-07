@@ -77,7 +77,7 @@ En primer lugar, para conocer las necesidades de los usuarios, podemos crear una
 > 
 > Manejo Tecnológico: Alto
 > 
-> Acerca de: Estudió en la Universidad de Granada el grado de Biomedicina y al terminar realizó un doctorado para poder dedicarse a la investigación. Actualmente trabaja investigando y aportando sus descumbrimientos a la red de científicos.
+> Acerca de: Estudió en la Universidad de Granada el grado de Biomedicina y al terminar realizó un doctorado para poder dedicarse a la investigación. Actualmente trabaja investigando y aportando sus descubrimientos a la red de científicos.
 > 
 > Objetivos: 
 >> Encontrar información sobre proyectos de investigación actuales.
