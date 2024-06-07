@@ -195,6 +195,14 @@ Dado que el público esperado del sitio incluye a personas del campo biomédico,
 <h4>Interactividad</h4>
 La página ofrece contenido interactivo, especialmente en la página principal con secciones de noticias y eventos que se actualizan regularmente. Esto proporciona una experiencia dinámica y mantiene a los usuarios informados sobre las actividades y avances del centro. Sin embargo, se podría mejorar la interactividad del sitio mediante la inclusión de elementos multimedia, como videos explicativos, infografías y gráficos interactivos, que podrían hacer que la información sea más atractiva y fácil de entender.
 
+### Adaptación a Diferentes Dispositivos
+
+La página web del CIBM se adapta bien a diferentes dispositivos, incluyendo computadoras de escritorio, tabletas y teléfonos móviles. El diseño responsive asegura que el contenido se reorganiza adecuadamente para diferentes tamaños de pantalla, manteniendo la legibilidad y la usabilidad. Sin embargo, en dispositivos móviles, algunos elementos de navegación podrían ser más accesibles, como los menús desplegables que a veces requieren varios toques para abrirse completamente.
+
+La velocidad de carga del sitio es adecuada tanto en dispositivos móviles como en de escritorio, aunque siempre hay espacio para optimizaciones que mejoren la experiencia del usuario en términos de tiempos de respuesta y rendimiento.
+
+![CIBM_movil](CIBM_movil.jpg)
+
 ### Experiencia de Usuario
 <h4>Contenido</h4>
 El contenido del sitio web es informativo y está bien estructurado, proporcionando información detallada sobre el centro, sus actividades de investigación, programas de docencia y noticias relevantes. Sin embargo, la descripción de las líneas de investigación y proyectos específicos podría ser más profunda para ofrecer a los usuarios una comprensión más completa de las actividades del centro.
